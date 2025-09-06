@@ -18,3 +18,6 @@ JOIN users u ON b.user_id = u.id
 WHERE b.start_date >= '2025-01-01'
 ORDER BY u.name;
 
+
+
+
