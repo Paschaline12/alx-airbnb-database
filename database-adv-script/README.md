@@ -21,3 +21,11 @@ This file (`aggregations_and_window_functions.sql`) contains queries that demons
 1. **Aggregation with GROUP BY** – Find the total number of bookings made by each user.
 2. **Window Function (RANK)** – Rank properties based on the total number of bookings they have received.
 
+## Aggregations and Window Functions
+
+This file (`aggregations_and_window_functions.sql`) contains queries that demonstrate:
+
+1. **Aggregation with GROUP BY** – Find the total number of bookings made by each user.
+2. **Window Function (RANK)** – Rank properties based on the total number of bookings they have received.
+3. **Window Function (ROW_NUMBER)** – Assign a sequential number to properties based on bookings.
+
